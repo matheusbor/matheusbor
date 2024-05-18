@@ -1,4 +1,13 @@
-### Hi there 👋
+### Oi meu nome é Matheus, faço aplicativos para celulares e a web usando Flutter
+
+<div>
+
+  <div>
+    <h3>Atuo como Desenvolvedor Mobile e Desenvolvedor WEB</h3>
+    <h3>Trabalho com Flutter, Dart, SQL, Figma, Django, HTML, CSS, JS</h3>
+    <h3>Estou desenvolvendo um aplicativo em flutter para maximizar a produtividade de um terreno, integrando Lavoura-Pecuária-Floresta. Atuo em todas etapas, do planejamento até o design e a programação, atuando como o único bolsista<h3>
+  </div>
+</div>
 
 <!--
 **matheusbor/matheusbor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
