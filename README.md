@@ -1,19 +1,21 @@
 ## Oi meu nome é Matheus, faço aplicativos para celulares e web usando Flutter
 
-<div style="display:flex;">
+<table>
+  <tr>
+    <td>
+      <h4>Atuo como Desenvolvedor Mobile e Desenvolvedor WEB</h4>
+      <h4>Trabalho com Flutter, Dart, SQL, Figma, Django, HTML, CSS, JS</h4>
+      <h4>Estou desenvolvendo um aplicativo em flutter para maximizar a produtividade de um terreno, integrando Lavoura-Pecuária-Floresta <br>
+          Atuo em todas etapas, do planejamento até o design e a programação, atuando como o único bolsista</h4>
+    </td>
+    <td>
+      <img
+    src="https://github-readme-stats-matheusbors-projects.vercel.app/api/top-langs/?username=matheusbor&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"
+    alt="Github Languages Stats" />
+    </td>
+  </tr>
+</table>
 
-  <div style="height: 50px; ">
-    <h4>Atuo como Desenvolvedor Mobile e Desenvolvedor WEB</h3>
-    <h4>Trabalho com Flutter, Dart, SQL, Figma, Django, HTML, CSS, JS</h3>
-    <h4>Estou desenvolvendo um aplicativo em flutter para maximizar a produtividade de um terreno, integrando Lavoura-Pecuária-Floresta <br>
-    Atuo em todas etapas, do planejamento até o design e a programação, atuando como o único bolsista<h3>
-  </div>
-  <div style="height: 50px;"><img
-        align="left"
-        src="https://github-readme-stats-matheusbors-projects.vercel.app/api/top-langs/?username=matheusbor&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-</div>
-      
 ##
 
 <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -23,19 +25,43 @@
 
 <!-- <div style="display:inline-block; width: 50px; height: 50px; "><img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbor&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"-->
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbor&theme=dark&hide_border=false&include_all_commits=true&layout=compact"
+        alt="Github Stats"/>
+  </div>
+  -->
+  
 <!--
-**matheusbor/matheusbor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Usando table por ser markdown
+<div style="display: flex">
+  <div style="">
+  <h4>Atuo como Desenvolvedor Mobile e Desenvolvedor WEB</h4>
+  <h4>Trabalho com Flutter, Dart, SQL, Figma, Django, HTML, CSS, JS</h4>
+  <h4>Estou desenvolvendo um aplicativo em flutter para maximizar a produtividade de um terreno, integrando Lavoura-Pecuária-Floresta <br>
+      Atuo em todas etapas, do planejamento até o design e a programação, atuando como o único bolsista</h4>
+  </div>
+  <div style="">
+  <img
+    align=middle
+    src="https://github-readme-stats-matheusbors-projects.vercel.app/api/top-langs/?username=matheusbor&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    alt="Github Languages Stats" />
+  </div>
+</div>
+-->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--
+<table>
+  <tr>
+    <td>
+      <h4>Atuo como Desenvolvedor Mobile e Desenvolvedor WEB</h4>
+      <h4>Trabalho com Flutter, Dart, SQL, Figma, Django, HTML, CSS, JS</h4>
+      <h4>Estou desenvolvendo um aplicativo em flutter para maximizar a produtividade de um terreno, integrando Lavoura-Pecuária-Floresta <br>
+          Atuo em todas etapas, do planejamento até o design e a programação, atuando como o único bolsista</h4>
+    </td>
+    <td>
+      <img
+    src="https://github-readme-stats-matheusbors-projects.vercel.app/api/top-langs/?username=matheusbor&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    alt="Github Languages Stats" />
+    </td>
+  </tr>
+</table>
 -->
