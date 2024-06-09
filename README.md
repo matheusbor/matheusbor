@@ -4,8 +4,8 @@
 <div style="display: flex">
   <div style="">
   <h4>Atuo como Desenvolvedor Mobile e Desenvolvedor WEB</h4>
-  <h4>Trabalho com Flutter, Dart, SQL, Figma, Django, HTML, CSS, JS</h4>
-  <h4>Estou desenvolvendo um aplicativo em flutter para maximizar a produtividade de um terreno, integrando Lavoura-Pecuária-Floresta <br>
+  <h4>Trabalho com Flutter, Dart, SQL e Figma</h4>
+  <h4>Estou desenvolvendo um aplicativo em Flutter para maximizar a produtividade de um terreno, integrando Lavoura-Pecuária-Floresta <br>
       Atuo em todas etapas, do planejamento até o design e a programação, atuando como o único bolsista</h4>
   </div>
   
