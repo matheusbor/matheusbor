@@ -5,7 +5,7 @@
   <div style="">
   <h4>Atuo como Desenvolvedor Mobile e Desenvolvedor WEB</h4>
   <h4>Trabalho com Flutter, Dart, SQL e Figma</h4>
-  
+  </div>
   
 </div>
 &nbsp;
